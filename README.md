@@ -1,6 +1,8 @@
 # DeepSleep
 A commandline tool for hibernating your Apple devices (macOS / tvOS / watchOS / iOS / iPadOS)
 
+This version is modified for armv7. 
+
 ## Why
 - Initially found a cool factory tool for it, thought it would help reserve battery to aid in preserving tetherboot longer.
 - It's very minimal code but an easy asset for beginners learning about IOKit
